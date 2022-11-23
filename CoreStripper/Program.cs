@@ -14,8 +14,10 @@ namespace CoreStripper
             string fileIn = Environment.CurrentDirectory + @"\Generated_Source\PSoC6\cyfitter_cfg.c";
             Console.WriteLine(
                 "****************************************************\r\n" +
-                "*         Onethinx CoreStripper Tool 1.21          *\r\n" +
-                "*               (c) Rolf / Onethinx                *\r\n" +
+                "*          Onethinx CoreStripper Tool 1.21          *\r\n" +
+                "*   The source code of this tool can be found at    *\r\n" +
+                "* https://github.com/onethinx/Onethinx_CoreStripper *\r\n" +
+                "*                (c) Rolf / Onethinx                *\r\n" +
                 "****************************************************\r\n" +
                 "Target file: " + fileIn
                  );
